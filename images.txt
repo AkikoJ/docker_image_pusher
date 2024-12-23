@@ -1,6 +1,1 @@
-minio/minio
-minio/mc
-nacos/nacos-server
-redis:7.4.1
-elasticsearch:8.16.2
 xuxueli/xxl-job-admin
